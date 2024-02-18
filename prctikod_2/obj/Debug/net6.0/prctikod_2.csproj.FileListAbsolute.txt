@@ -1,0 +1,37 @@
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.exe
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.deps.json
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.runtimeconfig.json
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.pdb
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\refint\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.pdb
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\ref\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\folder\file.txt
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user1\Documents\לימודים\dotnet\New folder\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.csproj.CopyComplete
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.exe
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.deps.json
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.runtimeconfig.json
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\prctikod_2.pdb
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.csproj.CopyComplete
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\refint\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.pdb
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\prctikod_2.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\obj\Debug\net6.0\ref\prctikod_2.dll
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\folder\AllTags.json
+C:\Users\user1\Documents\לימודים\פרקטיקוד\prctikod_2\prctikod_2\bin\Debug\net6.0\folder\SelfClosingTags.json
