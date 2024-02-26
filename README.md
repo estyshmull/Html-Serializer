@@ -25,3 +25,8 @@ The code in this project provides a basis for developing our own Crawler. In the
 Tag attribute parsing.
 DOM tree creation.
 XPath querying.
+I invite you to review the code and the attached documentation.
+
+I would be happy to answer any questions about the project.
+
+Thank you very much
